@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S.E. in Electrical and Computer Engineering, Johns Hopkins University, 2025 – Present
+* Graduate Success Through Academics and Research (G-STAR), Data Science, University of California, Irvine, 2024 – 2025 (GPA: 3.95/4.00)
+* B.E. in Network Engineering, Shandong University of Science and Technology, 2021 – 2024 (GPA: 3.50/4.00)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2026 – Aug 2026: ML & Data Engineering Intern, Shandong Sun Digital Technology Co., Ltd.
+* Mar 2025 – Jun 2025: Data Analyst Intern, Xendat Data Analytics
+* Jun 2024 – Aug 2024: Laser Display Factory Intern, Hisense Laser Display Co., Ltd.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+See the [full Experience page](../experience/) for research and internship details.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, C, Java, MATLAB, SQL, HTML
+* ML/DL: PyTorch
+* Data tools: Tableau, KNIME
+* Writing: LaTeX
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
