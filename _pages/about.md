@@ -7,8 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an M.S.E. student in Electrical and Computer Engineering with a concentration in Human Language Technology at Johns Hopkins University. My academic background spans computer science, data science, and artificial intelligence, and I have developed broad research interests in speech processing, natural language processing, multimodal learning, optimization algorithms, and trustworthy AI.
+I am currently an M.S.E. student in Electrical and Computer Engineering (Human Language Technology concentration) at Johns Hopkins University. My research focuses on LLM-enhanced evolutionary optimization and hyperparameter tuning, with applications to energy forecasting. I am a co-first author of a paper in the *IEEE Transactions on Industry Applications* (2026), in which we embed a large language model as an online scheduler inside a parallel multi-population snake optimizer to tune kernel extreme learning machines for short-term power load forecasting.
 
-I am interested in building intelligent systems that are both theoretically grounded and practically meaningful. In particular, I am motivated by research on speech and language technologies, expressive speech generation, multilingual and multimodal modeling, and the application of AI to real-world problems. I hope to contribute to research that connects methodological innovation with practical impact.
+My broader interests span machine learning, optimization algorithms, and trustworthy AI. I am currently working on cost-aware advice renewal in non-stationary bandits. Previously, I worked on multilingual speech synthesis, federated unlearning, and multimodal speech-to-text systems.
 
-Outside of academics, I enjoy traveling, photography, hiking, and exploring frontier technologies. I like discovering new places, capturing meaningful moments through images, and staying curious about emerging developments in AI, computing, and innovative tools that may shape the future.
+## News
+
+<div class="news-section" markdown="1">
+
+- **Sep 2026** — Started research on cost-aware advice renewal in non-stationary bandits.
+- **2026** — Co-first-author paper published in *IEEE Transactions on Industry Applications*.
+- **Dec 2025** — Paper on UAV path planning accepted at the 17th International Conference on Genetic and Evolutionary Computing (ICGEC).
+- **Dec 2024** — First-author paper published at IEEE SPIES 2024.
+
+</div>
+
+Outside of academics, I enjoy traveling, photography, hiking, and exploring frontier technologies.

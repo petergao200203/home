@@ -41,3 +41,79 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ==========================================================================
+   Custom academic styling — Tianyu Gao
+   Clean, elegant, scholarly layer on top of the theme.
+   ========================================================================== */
+
+// Serif display type for headings: quiet academic gravitas
+.page__title,
+.archive__item-title,
+.site-title {
+  font-family: Georgia, 'Times New Roman', 'Songti SC', 'Noto Serif SC', serif;
+  letter-spacing: 0.015em;
+}
+
+// Calmer, more readable body rhythm
+.page__content p,
+.archive__item-excerpt {
+  line-height: 1.8;
+}
+
+// Section headers: thin scholarly rule
+.page__content h2 {
+  border-bottom: 1px solid #d9dee3;
+  padding-bottom: 0.4em;
+  font-family: Georgia, 'Times New Roman', 'Songti SC', 'Noto Serif SC', serif;
+}
+
+// Archive cards (publications, talks, teaching): bordered, accent edge, airy
+.layout--archive .archive__item {
+  border: 1px solid #e3e7eb;
+  border-left: 3px solid #2c5f8a;
+  border-radius: 4px;
+  padding: 1.1em 1.4em;
+  margin-bottom: 1.4em;
+  transition: box-shadow 0.25s ease;
+}
+.layout--archive .archive__item:hover {
+  box-shadow: 0 4px 18px rgba(44, 95, 138, 0.12);
+}
+.archive__item-title {
+  margin-top: 0;
+}
+.archive__item-title a {
+  text-decoration: none;
+}
+
+// Scholarly link color
+.page__content a,
+.archive__item a {
+  color: #2c5f8a;
+}
+.page__content a:hover,
+.archive__item a:hover {
+  color: #1b3f5e;
+}
+
+// Homepage news section: tidy, scannable
+.news-section ul {
+  list-style: none;
+  padding-left: 0;
+}
+.news-section li {
+  margin-bottom: 0.55em;
+  line-height: 1.7;
+}
+.news-section li strong {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  color: #2c5f8a;
+  margin-right: 0.6em;
+}
+
+// Sidebar author name in serif
+.author__name {
+  font-family: Georgia, 'Times New Roman', serif;
+}
