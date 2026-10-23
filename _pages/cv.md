@@ -20,6 +20,8 @@ Work experience
 * May 2026 – Aug 2026: ML & Data Engineering Intern, Shandong Sun Digital Technology Co., Ltd.
 * Mar 2025 – Jun 2025: Data Analyst Intern, Xendat Data Analytics
 * Jun 2024 – Aug 2024: Laser Display Factory Intern, Hisense Laser Display Co., Ltd.
+* Jan 2024 – Feb 2024: Optoelectronics Technology Intern, Primanex Corporation
+* Dec 2022 – Jan 2023: Network Technology Intern, Shandong Sun Digital Technology Co., Ltd.
 
 See the [full Experience page](../experience/) for research and internship details.
 
