@@ -22,7 +22,7 @@ repository               : "petergao200203/home"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile Photo.png"
+  avatar           : "Profile Photo.jpg"
   name             : "Tianyu Gao (Peter)"
   pronouns         : "he/him/his"
   bio              : "M.S.E. student in Electrical and Computer Engineering, Johns Hopkins University"
